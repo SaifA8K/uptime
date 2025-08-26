@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.saifabdelrazek.com.ico",
     "slug": "site",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.39%",
+    "uptimeDay": "89.91%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.39%",
     "time": 146,
     "timeDay": 169,
     "timeWeek": 163,
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-08-25": 21
+      "2025-08-26": 123,
+      "2025-08-25": 22
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://marks.saifdev.org",
     "icon": "https://icons.duckduckgo.com/ip3/marks.saifdev.org.ico",
     "slug": "saifmarks",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 483,
     "timeDay": 493,
     "timeWeek": 533,
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-08-25": 20
+      "2025-08-26": 123,
+      "2025-08-25": 21
     }
   }
 ]
