@@ -5,9 +5,16 @@ repo: uptime
 sites:
   - name: Site
     url: https://www.saifabdelrazek.com
-  - name: saifmarks
+  - name: saifmarks - frontend
     url: https://marks.saifdev.org
-
+  - name: saifurls - frontend
+    url: https://urls.saifdev.org
+  - name: saifapi
+    url: https://api.saifdev.org
+  - name: saifmarks - backend
+    url: https://api.marks.saifdev.org/test
+  - name: Umami - selfhosted
+    url: https://umami.saifdev.org
 
 status-website:
   baseUrl: /uptime
