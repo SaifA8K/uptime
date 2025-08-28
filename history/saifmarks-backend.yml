@@ -1,7 +1,7 @@
 url: https://api.marks.saifdev.org/test
-status: up
-code: 200
-responseTime: 527
-lastUpdated: 2025-08-27T23:08:36.832Z
+status: down
+code: 502
+responseTime: 560
+lastUpdated: 2025-08-28T05:43:08.761Z
 startTime: 2025-08-26T13:20:19.562Z
 generator: Upptime <https://github.com/upptime/upptime>
