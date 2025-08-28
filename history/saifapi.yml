@@ -1,7 +1,7 @@
 url: https://api.saifdev.org
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 666
-lastUpdated: 2025-08-27T23:08:36.133Z
+lastUpdated: 2025-08-28T05:43:05.047Z
 startTime: 2025-08-26T13:20:18.364Z
 generator: Upptime <https://github.com/upptime/upptime>
